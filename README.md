@@ -1,3 +1,13 @@
+# Run app
+To run the app run
+
+npm run start
+
+# Run app (Development/Localhoste server using npx json server mode)
+To run the JSON Server run
+npx json-server --watch data/db.json
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
